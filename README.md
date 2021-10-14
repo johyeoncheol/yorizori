@@ -42,3 +42,14 @@
 ## 📚 ER - 다이어그램
 <center><img src="./document/erd.JPG" style="width:70%;height:70%" /></center>
 
+## Web
+<center><img src="./image/login - 1.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/login - 2.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/login - 3.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/main -1.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/main - 2.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/main -3.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/main - 4.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/mypage.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/rank.JPG" style="width:70%;height:70%" /></center>
+<center><img src="./image/register.JPG" style="width:70%;height:70%" /></center>
