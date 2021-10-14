@@ -40,5 +40,5 @@
 
 
 ## 📚 ER - 다이어그램
-<center><img src="./image/er diagram.png" style="width:70%;height:70%" /></center>
+<center><img src="./document/erd.JPG" style="width:70%;height:70%" /></center>
 
